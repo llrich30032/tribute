@@ -1,0 +1,43 @@
+.img-responsive{
+  margin: 0 auto;
+  }
+
+.main{
+  margin-top: 60px;
+  border: 0.5px solid #523960;
+  outline: black solid thin;
+}
+
+.jumbotron-fluid{
+  background-color: #cfc2d6;
+  margin-top: 0px;
+  margin-left: -15px;
+  margin-right: -15px;
+  margin-bottom: -20px;
+}
+
+.nav-tabs{
+  margin-top: 60px;
+  margin-left: -25px;
+  border-color: grey;
+  
+}
+.who, .what, .why, .how{
+  background-color: #cdc9cf;
+}
+
+
+#how{
+  margin-left: -25px;
+  }
+
+.bottom{
+  
+  margin-bottom: 0px;
+  margin-top: 60px;
+  margin-left: -15px;
+  margin-right: -15px;
+  background-color: #d0bfd9;
+  
+}
+
